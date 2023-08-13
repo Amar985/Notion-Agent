@@ -3,6 +3,7 @@ Find project ideas in a variety of languages with varying degrees of complexity.
 
 ## Steps to proceed 
 1. Download the following libraries before use:
+
     OS 
     pip install os
     
@@ -12,9 +13,9 @@ Find project ideas in a variety of languages with varying degrees of complexity.
     Custom Tkinter
     pip install customtkinter
 
-2. Go to the open ai api key generator website https://platform.openai.com/account/api-keys to generate key, Then assign it to your local environment with the name 
+3. Go to the open ai api key generator website https://platform.openai.com/account/api-keys to generate key, Then assign it to your local environment with the name 
    of "OPENAI_API_KEY".
-3. Run the main.py file.
+4. Run the main.py file.
 
 
 

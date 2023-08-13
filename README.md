@@ -5,7 +5,7 @@ Find project ideas in a variety of languages with varying degrees of complexity.
 1. Download the following libraries before use:
 
     OS 
-    pip install os
+    ```pip install os```
     
     Open AI
     pip install openai
